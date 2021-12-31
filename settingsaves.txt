@@ -1,0 +1,7 @@
+ ### Anything after " ###" is a comment and doesn't affect code.
+ ### 0 == False, 1 == True
+SORT PROCEDURE:::due_date, none
+AUTO REMOVE OVERDUE:::0
+ALWAYS DARK THEME:::0
+NATURAL DARK THEME CHANGE:::0
+WORKING HOURS:::9, 22 ### (start, end) format in 24h time

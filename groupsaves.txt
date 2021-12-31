@@ -1,0 +1,11 @@
+Maths:::10.0:::red
+Science:::8.0:::blue
+English:::9.0:::green
+History:::5.0:::yellow
+Geography:::5.0:::pink
+PDH:::3.0:::cyan
+Careers:::6.0:::white
+VA:::7.0:::black
+iStem:::7.0:::white
+Commerce:::3.0:::white
+Other:::4.0:::white
